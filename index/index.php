@@ -6,7 +6,7 @@
 	<div class="jumbotron">
 		<div class="container">
 		  <h1 class="display-3">Olá Mundo!</h1>
-		  <p>Exemplo de template.</p>
+		  <p>Massagistas Morenas R|J.</p>
 		  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
 		</div>
 	  </div>
