@@ -25,6 +25,9 @@
         -ms-user-select: none;
         user-select: none;
       }
+	  .bg-1{
+		  backgroud-color: whitesmoke;
+	  }
 
       @media (min-width: 768px) {
         .bd-placeholder-img-lg {
