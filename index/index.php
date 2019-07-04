@@ -5,8 +5,8 @@
 	<!-- Main jumbotron for a primary marketing message or call to action -->
 	<div class="jumbotron">
 		<div class="container">
-		  <h1 class="display-3">Laranja!</h1>
-		  <p>Massagistas RJ.</p>
+		  <h1 class="display-3">Olá Mundo!</h1>
+		  <p>Exemplo de template.</p>
 		  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
 		</div>
 	  </div>
