@@ -1,4 +1,4 @@
-<footer class="container">
+<footer class="container" style="text-align:center;">
   <p>&copy; Company 2017-2019</p>
 </footer>
 	  
