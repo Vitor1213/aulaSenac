@@ -5,8 +5,17 @@
 	<!-- Main jumbotron for a primary marketing message or call to action -->
 	<div class="jumbotron">
 		<div class="container">
+<<<<<<< HEAD
+		  <h1 class="display-3">Laranja!</h1>
+		  <p>Massagistas Ruivas Pintadas RJ.</p>
+=======
 		  <h1 class="display-3">Olá Mundo!</h1>
+<<<<<<< HEAD
 		  <p>Massagistas Morenas R|J.</p>
+=======
+		  <p>Massagitas loiras RJ.</p>
+>>>>>>> 7d0b165a1300889b4d3cad4ba027cff4dfc8ec1e
+>>>>>>> ed24d6e5f48db4b90004614e02729cd206a28cb9
 		  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
 		</div>
 	  </div>
